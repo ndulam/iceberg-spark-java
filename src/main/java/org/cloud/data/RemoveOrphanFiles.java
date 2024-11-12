@@ -1,5 +1,5 @@
 package org.cloud.data;
-
+/*
 import org.apache.iceberg.Table;
 import org.apache.iceberg.catalog.Namespace;
 import org.apache.iceberg.catalog.TableIdentifier;
@@ -37,3 +37,4 @@ public class RemoveOrphanFiles {
 
     }
 }
+*/

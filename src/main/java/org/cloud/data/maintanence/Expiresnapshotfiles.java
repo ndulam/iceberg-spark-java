@@ -1,5 +1,5 @@
 package org.cloud.data.maintanence;
-
+/*
 import org.apache.hadoop.conf.Configuration;
 import org.apache.iceberg.Table;
 import org.apache.iceberg.catalog.Namespace;
@@ -42,3 +42,4 @@ public class Expiresnapshotfiles {
 
     }
 }
+*/
